@@ -15,3 +15,4 @@ This project allowed me to dive deep into forecasting algorithms, regression ana
 📆 15-Day Future Forecast: Implemented a short-term forecast to enable data-driven decision-making for inventory management and strategic planning.
 
 🔍 Business Intelligence: Integrated Excel, Power Query, and DAX to clean, model, and analyze large datasets efficiently.
+
